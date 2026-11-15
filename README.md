@@ -5,20 +5,19 @@
 
 ### A passionate developer building amazing things!
 
-<p align="left">
-  <a href="https://github.com/DANIYYL">
-    <img src="https://img.icons8.com/ios-filled/480/github.png" width="64" height="64" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/oODANIYELOo">
-    <img src="https://img.icons8.com/color/480/telegram-app.png" width="64" height="64" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:daniyalx64@gmail.com">
-    <img src="https://img.icons8.com/color/480/gmail-new.png" width="64" height="64" alt="Gmail" />
-  </a>
-</p>
-
+  <p align="left">
+    <a href="https://github.com/DANIYYL">
+      <img src="https://img.icons8.com/ios-filled/480/github.png" width="64" height="64" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/oODANIYELOo">
+      <img src="https://img.icons8.com/color/480/telegram-app.png" width="64" height="64" alt="Telegram" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:daniyalx64@gmail.com">
+      <img src="https://img.icons8.com/color/480/gmail-new.png" width="64" height="64" alt="Gmail" />
+    </a>
+  </p>
 </div>
 
 ---
