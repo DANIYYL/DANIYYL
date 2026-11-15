@@ -5,7 +5,7 @@
 
 ### A passionate developer building amazing things!
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/DANIYYL">
       <img src="https://img.icons8.com/ios-filled/480/github.png" width="64" height="64" alt="GitHub" />
     </a>
