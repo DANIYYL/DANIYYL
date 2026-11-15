@@ -5,22 +5,31 @@
 
 ### A passionate developer building amazing things!
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<p align="left">
+  <a href="https://github.com/DANIYYL">
+    <img src="https://img.icons8.com/ios-filled/480/github.png" width="64" height="64" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/oODANIYELOo">
+    <img src="https://img.icons8.com/color/480/telegram-app.png" width="64" height="64" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:daniyalx64@gmail.com">
+    <img src="https://img.icons8.com/color/480/gmail-new.png" width="64" height="64" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
+I'm just a libre software lover and I live in linux.
 
 
 - 🌱 I’m currently **learning WASM**
 - 🔭 I’m currently working on **learning platform**
 - 💬 Ask me about **anything related to WEB NETWORK LINUX DEVOPS**
-- 📫 How to reach me: **Daniyalx64@gmail.com**
 
 ---
 
